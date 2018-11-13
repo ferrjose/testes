@@ -2,6 +2,7 @@
 ﻿# testes123
 Simuladão dos COD´s
 <<<<<<< HEAD
+<<<<<<< HEAD
 :)
 
 
@@ -16,3 +17,6 @@ MANASSES12
 Simuladão dos COD´s
 QUALEEEEEEEEEEEEEEEEEE
 >>>>>>> parent of 74fb91d... Update README.md
+=======
+:)
+>>>>>>> parent of 9340588... Update README.md
